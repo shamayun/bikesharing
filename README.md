@@ -1,6 +1,9 @@
 # Bike Sharing in NYC
 ## Overview of the statistical analysis:
 The goal of the project was to analyse usage of citi bikes in New York City. I retrieved the data for the most popular month – August 2019. Once retrieved, data needed to be transformed for consistency of anlysis. Utilized Tableau to create visualisations from transformed/loaded data. Once analysis were completed, created stories for the potential investors who would like to replicate NYC model in their small town.
+A link to the Data Visualization is below:
+
+[NYC CitiBike Analysis.](https://public.tableau.com/authoring/NYCCitiBike_16491800676400/CheckoutTimesforUsers#2)
 
 ## Results:
 The deep analysis and results were eye-operers for the investors. Following images summarize my findings:
